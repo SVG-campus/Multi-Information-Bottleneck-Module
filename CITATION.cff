@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Multi Information Bottleneck Module (UPDATE)"
+authors:
+  - family-names: "Villalobos-Gonzalez"
+    given-names: "Santiago de Jesus"
+    orcid: "https://orcid.org/0009-0004-9601-5617"
+type: software
+abstract: >
+  We present a rigorous formulation and validation of a Multi-Information Bottleneck (Multi-IB) module designed to compress multiple predictive signals for robust portfolio decision-making. We detail the mathemat- ical theory, derive and describe the final form of the algorithm, im- plement large-scale empirical tests, and provide proofs of robustness
+keywords:
+  - Information Bottleneck
+  - Multi‑view
+  - Representation Learning
+  - Robustness
+  - Regularization
+  - Deep Learning
+license: MIT
+repository-code: "https://github.com/OWNER/REPO"  # replace with your repo URL
+preferred-citation:
+  type: article
+  title: "Multi Information Bottleneck Module (UPDATE)"
+  authors:
+    - family-names: "Villalobos-Gonzalez"
+      given-names: "Santiago de Jesus"
+      orcid: "https://orcid.org/0009-0004-9601-5617"
+  year: 2025
+  doi: "10.5281/zenodo.{ZENODO_RECORD_ID}"  # replace after first release
